@@ -44,5 +44,4 @@ curl --location 'http://localhost:8080/api/v1/calculate' \
 }
 Запустите веб-сервис:
 go run ./cmd/calc_service/...
-По умолчанию сервис будет доступен по адресу:
-http://localhost:8080/api/v1/calculate
+
